@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Halo, Saya Rey Kagami (Kagami Holdings)
 
-<!--
-**reycats/reycats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### The Architecture of Inspired Creation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya adalah **Pendiri Tunggal** dari **Kagami Holdings**, sebuah kerangka kerja strategis yang didedikasikan untuk mengembangkan solusi digital yang didorong oleh hasrat (passion).
+
+Filosofi kami? Kualitas, inspirasi, dan otonomi penuh. Proyek dikembangkan berdasarkan *mood* dan visi pribadi, **bukan** tekanan tenggat waktu konvensional.
+
+### 🌐 Proyek Unggulan
+
+Proyek saat ini yang berada di bawah naungan Kagami Holdings adalah:
+
+| Nama Proyek | Deskripsi Singkat | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **Novel Helper** | Platform bantuan menulis dan *story structure* untuk penulis fiksi. | *Active* | [novel-helper.com](https://novel-helper.xo.je) |
+| **[???]** | *[Soon !]* | *Ideation* | *[Akan Segera Hadir]* |
+
+### 🛠️ Keterampilan & Fokus Pengembangan
+
+Kami fokus pada penciptaan solusi yang efektif dan berdampak.
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://devdocs.io/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://devdocs.io/css/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://devdocs.io/javascript/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Web Development](https://img.shields.io/badge/TOPIC-Web_Development-2ecc71.svg?style=flat-square)](https://github.com/topics/web-development)
+[![Creative Writing](https://img.shields.io/badge/TOPIC-Creative_Writing-e74c3c.svg?style=flat-square)](https://github.com/topics/creative-writing)
+
+---
+
+### 📊 Statistik GitHub (Generated Live!)
+
+*Gunakan ini untuk menampilkan statistik Anda. Ganti* `YOUR-USERNAME` *dengan username GitHub Anda.*
+
+[![Rey Kagami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reycats&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/reycats/github-readme-stats)
+
+---
+
+### 📬 Mari Terhubung
+
+| Platform | Link |
+| :--- | :--- |
+| **Website Utama** | [Kagami Holdings (Soon)](http://kagamiholdings.com) |
+| **Email Bisnis** | [support@kagamiholdings.com](mailto:reynotdeveloper@gmail.com) |
