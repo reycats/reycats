@@ -30,9 +30,8 @@ Kami fokus pada penciptaan solusi yang efektif dan berdampak.
 
 ---
 
-### 📊 Statistik GitHub (Generated Live!)
+### 📊 Statistik GitHub
 
-*Gunakan ini untuk menampilkan statistik Anda. Ganti* `YOUR-USERNAME` *dengan username GitHub Anda.*
 
 [![Rey Kagami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reycats&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/reycats/github-readme-stats)
 
