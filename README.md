@@ -33,10 +33,8 @@ Kami fokus pada penciptaan solusi yang efektif dan berdampak.
 ### 📊 Statistik GitHub
 
 
-[![Rey Kagami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reycats&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/reycats/github-readme-stats)
-
----
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reycats)
+---e
 ### 📬 Mari Terhubung
 
 | Platform | Link |
