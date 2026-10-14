@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/yomiru-labs-logo.svg" alt="Yomiru Labs" width="560" />
+<img src="assets/yomiru-labs-logo.png" alt="Yomiru Labs" width="560" />
 
 <br />
 
