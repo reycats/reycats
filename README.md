@@ -1,89 +1,92 @@
 <div align="center">
 
+<img src="assets/yomiru-labs-logo.svg" alt="Yomiru Labs" width="560" />
+
+<br />
+
 # Yomiru Labs
 
-### Building Yomiru â€” A Better Way to Read Comics.
+**Building Yomiru â€” A Better Way to Read Comics.**
 
-[![Developer](https://img.shields.io/badge/Developer-Yomiru%20Labs-06b6d4?style=flat-square&logo=android&logoColor=white)](https://github.com/Wynames/yomiru-comicg)
-[![Project](https://img.shields.io/badge/Project-Yomiru%20v1.0.0-0284c7?style=flat-square&logo=book&logoColor=white)](https://github.com/Wynames/yomiru-comicg)
-[![Platform](https://img.shields.io/badge/Platform-Android-38bdf8?style=flat-square&logo=android&logoColor=060913)](https://github.com/Wynames/yomiru-comicg)
-[![Contact](https://img.shields.io/badge/Contact-Email%20Developer-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:reynotdeveloper@gmail.com)
+[![Developer](https://img.shields.io/badge/Developer-Yomiru%20Labs-06b6d4?style=flat-square&logo=android&logoColor=white)](https://github.com/reycats)
+[![Application](https://img.shields.io/badge/Application-Yomiru%20v1.0.0-0284c7?style=flat-square&logo=book&logoColor=white)](https://github.com/reycats)
+[![Platform](https://img.shields.io/badge/Platform-Android-38bdf8?style=flat-square&logo=android&logoColor=060913)](https://github.com/reycats)
+[![Profile](https://img.shields.io/badge/GitHub-@reycats-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/reycats)
+[![Contact](https://img.shields.io/badge/Contact-Email%20Developer-090d16?style=flat-square&logo=gmail&logoColor=white)](mailto:reynotdeveloper@gmail.com)
 
 ---
 
 </div>
 
-## ðŸ“Œ Pengantar (Introduction)
+## Pengantar
 
-Halo, selamat datang di profil GitHub saya (**@reycats**). Saya adalah pengembang independen di balik **Yomiru Labs**, dengan fokus utama merancang dan membangun **Yomiru** â€” aplikasi pembaca komik dan manga modern untuk platform Android.
+Halo, selamat datang di profil GitHub saya (**@reycats**). Saya adalah seorang pengembang independen di balik merek **Yomiru Labs**, yang mendedikasikan waktu dan fokus teknis untuk merancang, mengembangkan, dan terus menyempurnakan **Yomiru** â€” aplikasi pembaca komik dan manga modern untuk platform Android.
 
-Prinsip utama yang saya terapkan dalam pengembangan adalah kesederhanaan, performa responsif, dan privasi pengguna. Yomiru dibangun dengan pendekatan *local-first*, memastikan seluruh koleksi, penanda bacaan, serta riwayat tetap berada dalam kendali penuh pengguna di perangkat masing-masing tanpa keharusan membuat akun atau bergantung pada sistem eksternal.
+Prinsip rekayasa perangkat lunak yang saya terapkan adalah kesederhanaan, performa responsif, dan privasi penuh bagi pengguna. Yomiru dibangun dengan pendekatan *local-first*, memastikan seluruh koleksi bacaan, penanda buku, serta catatan riwayat tersimpan langsung di dalam penyimpanan privat perangkat pengguna tanpa keharusan mendaftarkan akun.
 
 ---
 
-## ðŸš€ Proyek Utama: Yomiru (Featured Project)
+## Proyek Utama: Yomiru
 
 <table>
   <tr>
-    <td width="65%">
-      <h3>ðŸ“– Yomiru â€” Android Comic &amp; Manga Reader</h3>
+    <td>
+      <h3>Yomiru â€” Android Comic &amp; Manga Reader</h3>
       <p>
-        Aplikasi pembaca komik dan manga berbasis Android yang dirancang untuk pengalaman membaca yang lancar, bersih, dan bebas distraksi.
+        Aplikasi pembaca komik dan manga berbasis Android yang dirancang khusus untuk menghadirkan pengalaman membaca yang nyaman, cepat, dan bebas distraksi.
       </p>
       <ul>
-        <li><strong>Aplikasi:</strong> Yomiru</li>
+        <li><strong>Nama Aplikasi:</strong> Yomiru</li>
         <li><strong>Pengembang:</strong> Yomiru Labs (<code>@reycats</code>)</li>
         <li><strong>Platform:</strong> Android</li>
-        <li><strong>Package ID:</strong> <code>com.yomirulabs.yomiru</code></li>
+        <li><strong>Package Name:</strong> <code>com.yomirulabs.yomiru</code></li>
         <li><strong>Versi Aktif:</strong> <code>1.0.0</code></li>
-        <li><strong>Repositori Kode:</strong> <a href="https://github.com/Wynames/yomiru-comicg">github.com/Wynames/yomiru-comicg</a></li>
+        <li><strong>Pendekatan Data:</strong> Penyimpanan lokal privat (<em>local-first</em>)</li>
       </ul>
     </td>
   </tr>
 </table>
 
-### Fitur &amp; Kemampuan yang Diimplementasikan
-- **Pengalaman Membaca Fleksibel:** Mendukung berbagai mode baca (kanan-ke-kiri, kiri-ke-kanan, dan *vertical webtoon scroll*).
-- **Koleksi &amp; Rak Pribadi (Library):** Pengorganisasian komik favorit dan bookmark secara lokal tanpa memerlukan akun pengguna.
-- **Riwayat &amp; Pelacakan Progres:** Pencatatan otomatis bab terakhir yang dibaca beserta nomor halaman untuk kemudahan melanjutkan bacaan.
-- **Pencadangan Mandiri (Export/Import):** Fitur ekspor dan impor data lokal memanfaatkan *Storage Access Framework* (SAF) Android agar pengguna memiliki kendali penuh atas arsip bacaan mereka.
-- **Pendekatan Sadar Privasi:** Seluruh data preferensi dan pustaka tersimpan di penyimpanan privat perangkat pengguna tanpa integrasi pustaka analitik pihak ketiga.
+### Fitur &amp; Fungsionalitas yang Tersedia
+
+- **Membaca Komik &amp; Manga:** Antarmuka pembaca yang dirancang untuk kenyamanan visual dengan dukungan berbagai orientasi arah baca (kanan-ke-kiri, kiri-ke-kanan, dan *vertical continuous scroll*).
+- **Pustaka &amp; Koleksi Favorit:** Mengelola daftar judul komik favorit dan penanda bacaan (*bookmarks*) langsung di perangkat tanpa membutuhkan akun terpusat.
+- **Riwayat Membaca:** Pencatatan kronologis bab yang telah dibuka beserta waktu akses terakhir untuk memudahkan melanjutkan bacaan.
+- **Pelacakan Progres Membaca:** Penyimpanan otomatis posisi bab aktif dan indeks nomor halaman terakhir yang sedang dibaca.
+- **Ekspor &amp; Impor Data Lokal:** Fitur pencadangan dan pemulihan data mandiri memanfaatkan *Storage Access Framework* (SAF) Android, memberikan keleluasaan penuh bagi pengguna untuk memindahkan arsip data mereka.
+- **Privasi Terjaga:** Seluruh preferensi konfigurasi dan pustaka tersimpan secara lokal pada ruang penyimpanan terisolasi (*sandbox*) aplikasi di perangkat.
 
 ---
 
-## ðŸŽ¯ Fokus Pengembangan (Development Focus)
+## Fokus Pengembangan
 
-Dalam mengembangkan Yomiru, fokus rekayasa perangkat lunak saya terpusat pada prioritas berikut:
+Dalam membangun dan memelihara Yomiru, prioritas rekayasa perangkat lunak saya terpusat pada aspek-aspek berikut:
 
-- **Android App Engineering:** Membangun aplikasi Android native yang efisien, hemat daya, dan memiliki konsumsi memori yang terkontrol saat memuat gambar resolusi tinggi.
-- **Optimasi Pengalaman Membaca (Reading UX):** Memastikan proses pemuatan (*rendering*) halaman komik berjalan halus dengan transisi yang responsif.
-- **Pelacakan Progres yang Andal:** Menyediakan mekanisme penyimpanan status bacaan lokal yang konsisten dan akurat.
-- **Arsitektur yang Rapi &amp; Terstruktur:** Menjaga modularitas kode agar mudah dipelihara, diuji, dan dikembangkan secara bertahap.
-- **Automasi Build &amp; CI/CD:** Mengimplementasikan alur kerja otomatis menggunakan GitHub Actions untuk proses verifikasi kode dan kompilasi rilis yang konsisten.
+- **Pengembangan Native Android:** Mengutamakan arsitektur Android modern yang efisien dalam manajemen siklus hidup aplikasi serta pengelolaan konsumsi memori saat memproses gambar halaman beresolusi tinggi.
+- **Kenyamanan &amp; Usabilitas Pengalaman Membaca:** Mengoptimalkan alur *rendering* halaman dan transisi antarmuka agar tetap responsif pada berbagai ukuran layar ponsel Android.
+- **Persistensi Progres yang Andal:** Memastikan status progres bacaan tersimpan secara konsisten dan akurat ke dalam basis data lokal.
+- **Arsitektur Kode yang Terawat:** Menerapkan struktur kode yang bersih, modular, dan terpisah antar-lapisan (*separation of concerns*) agar mudah diuji serta dikembangkan secara berkelanjutan.
+- **Otomasi Pengujian &amp; Build:** Menerapkan alur kerja otomasi melalui GitHub Actions untuk verifikasi kualitas kode, *linting*, dan pembuatan berkas rilis secara terstandar.
 
 ---
 
-## ðŸ› ï¸ Tumpukan Teknologi (Technology Stack)
+## Tumpukan Teknologi
 
-Teknologi yang digunakan dalam pengembangan ekosistem Yomiru:
-
-<div align="left">
+Teknologi dan pustaka yang digunakan dalam pengembangan Yomiru:
 
 | Kategori | Teknologi &amp; Pustaka |
 |---|---|
-| **Bahasa Utama** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Antarmuka (UI)** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **Penyimpanan Lokal** | ![Room](https://img.shields.io/badge/Room%20DB-0284c7?style=flat-square&logo=sqlite&logoColor=white) |
+| **Bahasa Pemrograman** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Antarmuka Pengguna (UI)** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| **Penyimpanan Lokal** | ![Room DB](https://img.shields.io/badge/Room%20DB-0284c7?style=flat-square&logo=sqlite&logoColor=white) |
 | **Pemuatan Gambar** | ![Coil](https://img.shields.io/badge/Coil-Image%20Loading-06b6d4?style=flat-square) |
 | **Jaringan &amp; Serialisasi** | ![Retrofit](https://img.shields.io/badge/Retrofit-Networking-0284c7?style=flat-square) ![Moshi](https://img.shields.io/badge/Moshi-JSON-38bdf8?style=flat-square&logoColor=060913) |
-| **Build &amp; Automasi** | ![Gradle](https://img.shields.io/badge/Gradle-Build%20Tool-02303A?style=flat-square&logo=gradle&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Build &amp; Automasi CI/CD** | ![Gradle](https://img.shields.io/badge/Gradle-Build%20Tool-02303A?style=flat-square&logo=gradle&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
-</div>
 
 ---
 
-## ðŸ“Š Statistik GitHub (GitHub Statistics)
+## Statistik GitHub
 
 <div align="center">
 
@@ -95,14 +98,16 @@ Teknologi yang digunakan dalam pengembangan ekosistem Yomiru:
 
 ---
 
-## ðŸ“¬ Kontak &amp; Informasi Pengembang (Contact)
+## Kontak &amp; Informasi Pengembang
 
-Jika Anda memiliki pertanyaan teknis, saran pengembangan, atau ingin berdiskusi mengenai Yomiru, silakan hubungi saya melalui:
+Untuk pertanyaan teknis, saran, atau diskusi seputar pengembangan aplikasi, silakan menghubungi:
 
 - **Pengembang:** Yomiru Labs
-- **GitHub:** [@reycats](https://github.com/reycats)
-- **Email Pengembang:** [reynotdeveloper@gmail.com](mailto:reynotdeveloper@gmail.com)
+- **Profil GitHub:** [https://github.com/reycats](https://github.com/reycats)
+- **Email:** [reynotdeveloper@gmail.com](mailto:reynotdeveloper@gmail.com)
+
+---
 
 <div align="center">
-  <sub>Â© 2026 Yomiru Labs Â· Dikembangkan secara independen untuk ekosistem Android.</sub>
+  <sub>&copy; 2026 Yomiru Labs &bull; Dikembangkan secara mandiri untuk ekosistem Android.</sub>
 </div>
