@@ -6,7 +6,7 @@
 
 # Yomiru Labs
 
-**Building Yomiru** A Better Way to Read Comics.**
+**Building Yomiru A Better Way to Read Comics.**
 
 [![Developer](https://img.shields.io/badge/Developer-Yomiru%20Labs-06b6d4?style=flat-square&logo=android&logoColor=white)](https://github.com/reycats)
 [![Application](https://img.shields.io/badge/Application-Yomiru%20v1.0.0-0284c7?style=flat-square&logo=book&logoColor=white)](https://github.com/reycats)
