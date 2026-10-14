@@ -6,7 +6,7 @@
 
 # Yomiru Labs
 
-**Building Yomiru â€” A Better Way to Read Comics.**
+**Building Yomiru** A Better Way to Read Comics.**
 
 [![Developer](https://img.shields.io/badge/Developer-Yomiru%20Labs-06b6d4?style=flat-square&logo=android&logoColor=white)](https://github.com/reycats)
 [![Application](https://img.shields.io/badge/Application-Yomiru%20v1.0.0-0284c7?style=flat-square&logo=book&logoColor=white)](https://github.com/reycats)
@@ -20,7 +20,7 @@
 
 ## Pengantar
 
-Halo, selamat datang di profil GitHub saya (**@reycats**). Saya adalah seorang pengembang independen di balik merek **Yomiru Labs**, yang mendedikasikan waktu dan fokus teknis untuk merancang, mengembangkan, dan terus menyempurnakan **Yomiru** â€” aplikasi pembaca komik dan manga modern untuk platform Android.
+Halo, selamat datang di profil GitHub saya (**@reycats**). Saya adalah seorang pengembang independen di balik merek **Yomiru Labs**, yang mendedikasikan waktu dan fokus teknis untuk merancang, mengembangkan, dan terus menyempurnakan **Yomiru** aplikasi pembaca komik dan manga modern untuk platform Android.
 
 Prinsip rekayasa perangkat lunak yang saya terapkan adalah kesederhanaan, performa responsif, dan privasi penuh bagi pengguna. Yomiru dibangun dengan pendekatan *local-first*, memastikan seluruh koleksi bacaan, penanda buku, serta catatan riwayat tersimpan langsung di dalam penyimpanan privat perangkat pengguna tanpa keharusan mendaftarkan akun.
 
@@ -31,7 +31,7 @@ Prinsip rekayasa perangkat lunak yang saya terapkan adalah kesederhanaan, perfor
 <table>
   <tr>
     <td>
-      <h3>Yomiru â€” Android Comic &amp; Manga Reader</h3>
+      <h3>Yomiru Android Comic &amp; Manga Reader</h3>
       <p>
         Aplikasi pembaca komik dan manga berbasis Android yang dirancang khusus untuk menghadirkan pengalaman membaca yang nyaman, cepat, dan bebas distraksi.
       </p>
