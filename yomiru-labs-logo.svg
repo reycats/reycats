@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 190" width="100%" height="100%" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">Yomiru Labs Logo</title>
+  <desc id="logoDesc">Official vector emblem and wordmark of Yomiru Labs featuring an open-book Y monogram with cyan and electric-blue accents on dark navy background.</desc>
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C16" />
+      <stop offset="50%" stop-color="#0B1324" />
+      <stop offset="100%" stop-color="#070A12" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" />
+      <stop offset="40%" stop-color="#0284C7" stop-opacity="0.6" />
+      <stop offset="70%" stop-color="#06B6D4" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+
+    <!-- Left Wing Gradient (Electric Blue) -->
+    <linearGradient id="leftWingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="35%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+
+    <!-- Right Wing Gradient (Cyan / Bright Teal) -->
+    <linearGradient id="rightWingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#67E8F9" />
+      <stop offset="40%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#0369A1" />
+    </linearGradient>
+
+    <!-- Center Spine Stem Gradient -->
+    <linearGradient id="stemGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" />
+      <stop offset="50%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+
+    <!-- Glow Effect -->
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <radialGradient id="symbolBackglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.22" />
+      <stop offset="70%" stop-color="#0284C7" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Container Box with Rounded Corners for Perfect Dark/Light Theme Contrast -->
+  <rect x="2" y="2" width="676" height="186" rx="22" fill="url(#bgGradient)" stroke="url(#borderGradient)" stroke-width="1.8" />
+
+  <!-- Subtle ambient halo behind symbol -->
+  <circle cx="108" cy="95" r="76" fill="url(#symbolBackglow)" />
+
+  <!-- ==================== SYMBOL / LOGOMARK ==================== -->
+  <g transform="translate(108, 95)">
+    <!-- Behind-page layering / Comic Page Facets -->
+    <!-- Left outer page spread -->
+    <path d="M -8 -8 C -24 -28, -50 -44, -70 -38 C -74 -37, -76 -33, -76 -28 L -76 18 C -76 22, -73 25, -68 24 C -50 20, -28 32, -8 44 Z"
+          fill="#1E293B" opacity="0.6" />
+    
+    <!-- Right outer page spread -->
+    <path d="M 8 -8 C 24 -28, 50 -44, 70 -38 C 74 -37, 76 -33, 76 -28 L 76 18 C 76 22, 73 25, 68 24 C 50 20, 28 32, 8 44 Z"
+          fill="#1E293B" opacity="0.6" />
+
+    <!-- Left Wing of the 'Y' (Curved Comic Page Arc) -->
+    <path d="M -6 -16 C -20 -38, -44 -56, -64 -50 C -68 -49, -70 -45, -70 -40 L -70 4 C -70 8, -67 11, -63 10 C -45 6, -24 18, -6 30 Z"
+          fill="url(#leftWingGrad)" />
+
+    <!-- Left Page Inner Accent Line -->
+    <path d="M -62 -36 C -46 -40, -28 -26, -14 -6 L -14 18 C -28 6, -46 -2, -62 0 Z"
+          fill="#FFFFFF" opacity="0.16" />
+
+    <!-- Right Wing of the 'Y' (Curved Comic Page Arc) -->
+    <path d="M 6 -16 C 20 -38, 44 -56, 64 -50 C 68 -49, 70 -45, 70 -40 L 70 4 C 70 8, 67 11, 63 10 C 45 6, 24 18, 6 30 Z"
+          fill="url(#rightWingGrad)" />
+
+    <!-- Right Page Inner Highlight -->
+    <path d="M 62 -36 C 46 -40, 28 -26, 14 -6 L 14 18 C 28 6, 46 -2, 62 0 Z"
+          fill="#FFFFFF" opacity="0.22" />
+
+    <!-- Central 'Y' Spine / Stem -->
+    <path d="M 0 -8 L 8 10 L 6 54 C 6 58, 2 62, 0 64 C -2 62, -6 58, -6 54 L -8 10 Z"
+          fill="url(#stemGrad)" />
+
+    <!-- Central Diamond / Digital Reading Core Focal Point -->
+    <polygon points="0,-24 9,-10 0,4 -9,-10"
+             fill="#22D3EE"
+             filter="url(#softGlow)" />
+    <polygon points="0,-20 6,-10 0,0 -6,-10"
+             fill="#FFFFFF" />
+  </g>
+
+  <!-- Vertical Divider Line -->
+  <line x1="214" y1="42" x2="214" y2="148" stroke="#1E293B" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="214" y1="70" x2="214" y2="120" stroke="#06B6D4" stroke-width="1.5" stroke-opacity="0.4" stroke-linecap="round" />
+
+  <!-- ==================== TYPOGRAPHY / WORDMARK ==================== -->
+  <g transform="translate(242, 0)">
+    <!-- Primary Brand Wordmark: YOMIRU -->
+    <text x="0" y="88"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+          font-size="44"
+          font-weight="900"
+          letter-spacing="5"
+          fill="#F8FAFC">YOMIRU<tspan fill="#22D3EE">.</tspan></text>
+
+    <!-- Sub-Brand: LABS -->
+    <text x="242" y="88"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+          font-size="44"
+          font-weight="300"
+          letter-spacing="7"
+          fill="#38BDF8">LABS</text>
+
+    <!-- Subtle Tagline / Domain Classification -->
+    <text x="2" y="122"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+          font-size="12"
+          font-weight="700"
+          letter-spacing="4.5"
+          text-transform="uppercase"
+          fill="#94A3B8">SOFTWARE CRAFT &bull; ANDROID READER</text>
+
+    <!-- Version & Platform Indicator Pills -->
+    <g transform="translate(2, 138)">
+      <!-- Pill 1: Android Platform -->
+      <rect x="0" y="0" width="76" height="20" rx="5" fill="#0C1A30" stroke="#0284C7" stroke-width="0.8" />
+      <text x="38" y="14"
+            font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+            font-size="9.5"
+            font-weight="700"
+            fill="#38BDF8"
+            text-anchor="middle">ANDROID</text>
+
+      <!-- Pill 2: v1.0.0 -->
+      <rect x="84" y="0" width="60" height="20" rx="5" fill="#0C2029" stroke="#06B6D4" stroke-width="0.8" />
+      <text x="114" y="14"
+            font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+            font-size="9.5"
+            font-weight="700"
+            fill="#22D3EE"
+            text-anchor="middle">v1.0.0</text>
+
+      <!-- Pill 3: Local-First Focus -->
+      <rect x="152" y="0" width="94" height="20" rx="5" fill="#111827" stroke="#334155" stroke-width="0.8" />
+      <text x="199" y="14"
+            font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+            font-size="9.5"
+            font-weight="600"
+            fill="#94A3B8"
+            text-anchor="middle">LOCAL-FIRST</text>
+    </g>
+  </g>
+</svg>
